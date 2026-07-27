@@ -50,7 +50,7 @@
 
 | Project Name | Tech Stack | Description |
 |---|---|---|
-| **[Campus Grievance Redressal Portal](https://github.com/Bharatibhat07)** | HTML, CSS, React.js, Node.js, MongoDB, Firebase, Postman, HuggingFace | A web-based system that allows students to submit complaints and track grievance status efficiently. Built over 4 months with a team of 4. |
+| **Campus Grievance Redressal Portal** | HTML, CSS, React.js, Node.js, MongoDB, Firebase, Postman, HuggingFace | A web-based system that allows students to submit complaints and track grievance status efficiently. Built over 4 months with a team of 4. |
 
 ---
 
