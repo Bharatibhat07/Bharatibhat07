@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Bharati Bhat </h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Building+with+React+%26+JavaScript;Currently+leveling+up+in+Java;Turning+ideas+into+code%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Building+with+React+%26+JavaScript;Currently+leveling+up+in+Java;Turning+ideas+into+code;+one+commit+at+a+time" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bharatibhat07&color=38BDF8&style=flat-square&label=Profile+Views)
 
