@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bharati+Subray+Bhat;Computer+Science+Engineering+Student;React+%7C+JavaScript+%7C+Java+Learner;Building+things%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bharati+Bhat;Computer+Science+Engineering+Student;React+%7C+JavaScript+%7C+Java+Learner;one+commit+at+a+time" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bharatibhat07&color=38BDF8&style=flat-square&label=Profile+Views)
 
@@ -50,24 +50,25 @@
 
 ## 🧰 Tech Stack & Tools
 
-<div align="center">
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=c,java,py,c++,cpp" alt="Languages" />
+</p>
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend" />
+</p>
 
-</div>
+<p align="center">
+  <b>Backend & Databases</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" alt="Backend" />
+</p>
+
+<p align="center">
+  <b>Tools & Platforms</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+</p>
 
 ---
 
