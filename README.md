@@ -75,12 +75,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bharatibhat07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatibhat07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatibhat07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
 <img src="https://leetcard.jacoblin.cool/bharatibhat07?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" height="200"/>
+
+
+
+[![](https://raw.githubusercontent.com/Bharatibhat07/Bharatibhat07/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Bharatibhat07/Bharatibhat07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bharatibhat07/Bharatibhat07/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Bharatibhat07/Bharatibhat07/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bharatibhat07/Bharatibhat07/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
