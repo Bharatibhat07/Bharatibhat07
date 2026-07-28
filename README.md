@@ -58,7 +58,7 @@
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=c,java,py,c++,cpp" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,cpp" alt="Languages" />
 </p>
 
 <p align="center">
