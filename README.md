@@ -73,7 +73,7 @@
 
 <p align="center">
   <b>Tools & Platforms</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" alt="Tools" />
 </p>
 
 ---
