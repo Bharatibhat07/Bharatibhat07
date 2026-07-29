@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bharatibhat07/Bharatibhat07/main/Profile3.jpeg" width="350" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Bharatibhat07/Bharatibhat07/main/profile4.jpeg" width="350" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi, I'm Bharati Bhat </h1>
