@@ -51,6 +51,7 @@
 | Project Name | Tech Stack | Description |
 |---|---|---|
 | **Campus Grievance Redressal Portal** | HTML, CSS, React.js, Node.js, MongoDB, Firebase, Postman, HuggingFace | A web-based system that allows students to submit complaints and track grievance status efficiently. Built over 4 months with a team of 4. |
+| **Personal Portfolio Website** | React.js, TypeScript, Vite, Tailwind CSS, EmailJS, Supabase | A modern, responsive portfolio website showcasing my skills, projects, education, certifications, achievements, and experience, featuring an interactive AI-powered portfolio assistant and contact form. |
 
 ---
 
